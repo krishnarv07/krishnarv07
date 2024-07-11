@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [Portfolio](melodic-cat-ae3706.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://melodic-cat-ae3706.netlify.app/)
 
 - 💬 Ask me about **MERN stack , UI/UX designer**
 
