@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://melodic-cat-ae3706.netlify.app/)
 
-- 💬 Ask me about **MERN stack , UI/UX designer**
+- 💬 Ask me about **frontend & backend, UI/UX design**
 
 - 📫 How to reach me [Mailid](r.v.krishna2k4@gmail.com)
 
